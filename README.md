@@ -1,2 +1,2 @@
-# rnd-usr.com
+# randomize-usr.com
 ©
