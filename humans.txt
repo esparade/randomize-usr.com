@@ -37,11 +37,12 @@ vim.org/
 NEOVIM - the other text editor
 neovim.io/
 
-GitHub - code repository
+Codeberg - code repository
+codeberg.org
+
+GitHub - the other code repository
 github.com
 
-Codeberg - the other code repository
-codeberg.org
 ________________________________________
 
 SOUNDTRACK
